@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/aibacktest-ui/static/css/main.31d6cfe0.css",
+    "main.js": "/aibacktest-ui/static/js/main.06687bee.js",
+    "index.html": "/aibacktest-ui/index.html",
+    "main.06687bee.js.map": "/aibacktest-ui/static/js/main.06687bee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.06687bee.js"
+  ]
+}
